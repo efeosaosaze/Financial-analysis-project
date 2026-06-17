@@ -13,11 +13,11 @@ Paseo was the most profitable product line.
 Revenue peaked in Q4(October-December).
 
 **Files Included**
-Excel dataset
-PowerPoint presentation
+Excel dataset.
+PowerPoint presentation.
 
 **Skills Demonstrated**
-Data analysis
-Financial reporting
-Data visualization
-Business insight generation
+Data analysis.
+Financial reporting.
+Data visualization.
+Business insight generation.
