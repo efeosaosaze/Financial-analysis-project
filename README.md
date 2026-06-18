@@ -3,21 +3,21 @@ This project analyzes a compnany's financial performance using sales data, focus
 accross products,countries and customer segments.
 
 **Tools Used**
-Microsoft Excel(PivotTables and PivotCharts).
-Data visualitation techniques.
+1.Microsoft Excel(PivotTables and PivotCharts).
+2.Data visualitation techniques.
 
 **Key Insights**
-Government segment generated the highest profit.
-Enterprise segment recorded a loss.
-Paseo was the most profitable product line.
-Revenue peaked in Q4(October-December).
+1.Government segment generated the highest profit.
+2.Enterprise segment recorded a loss.
+3.Paseo was the most profitable product line.
+4.Revenue peaked in Q4(October-December).
 
 **Files Included**
-Excel dataset.
-PowerPoint presentation.
+1.Excel dataset.
+2.PowerPoint presentation.
 
 **Skills Demonstrated**
-Data analysis.
-Financial reporting.
-Data visualization.
-Business insight generation.
+1.Data analysis.
+2.Financial reporting.
+3.Data visualization.
+4.Business insight generation.
